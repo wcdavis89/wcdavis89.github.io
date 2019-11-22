@@ -1,11 +1,11 @@
 # Site settings
-author: Whittney Davis
-title: 
+author: W. C. Davis
+title: Bee-Bee-Boo-Bop
 header-img: img/home-bg.png
 email: wcdavis89@yahoo.com
-copyright_name: Whittney Davis
+copyright_name: W. C. Davis
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Typing like a robot so everyone else can type like a human.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  wcdavis89
